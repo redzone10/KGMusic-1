@@ -24,6 +24,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/knsgnwn/KGMusicbot)
 
+### Railway 
+<p><a href="https://railway.app/new/template?template=https://github.com/knsgnwn/KGMusic&envs=API_HASH,API_ID,ARQ_API_KEY,ASSISTANT_NAME,VIDEO_CHAT_ID,BG_IMAGE,BOT_NAME,BOT_TOKEN,BOT_USERNAME,DURATION_LIMIT,SESSION_NAME,SUDO_USERS,SUPPORT_GROUP,UPDATES_CHANNEL"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@mrismanaziz/stringenSession?lite=1&outputonly=1)
 
